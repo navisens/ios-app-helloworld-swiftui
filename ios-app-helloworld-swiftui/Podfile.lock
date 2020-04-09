@@ -1,0 +1,16 @@
+PODS:
+  - MotionDnaSDK (1.9.2)
+
+DEPENDENCIES:
+  - MotionDnaSDK
+
+SPEC REPOS:
+  trunk:
+    - MotionDnaSDK
+
+SPEC CHECKSUMS:
+  MotionDnaSDK: a7a875b6081eb8ba4ffa84668d6c50f08dea1a1e
+
+PODFILE CHECKSUM: 587ffae81abde90d6141d92455f37d15a52ad40d
+
+COCOAPODS: 1.9.1
